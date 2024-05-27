@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" ><img 
- src="https://media.licdn.com/dms/image/C5612AQHfyMACEqZ1fQ/article-cover_image-shrink_600_2000/0/1650422813943?e=1701302400&v=beta&t=869EkQM0loHVEDNGAs6r39RgqTKE_bsMLhiHJ8Adrd8" width="40%"/></p><br>
+ src="[https://media.licdn.com/dms/image/C5612AQHfyMACEqZ1fQ/article-cover_image-shrink_600_2000/0/1650422813943?e=1701302400&v=beta&t=869EkQM0loHVEDNGAs6r39RgqTKE_bsMLhiHJ8Adrd8](https://drive.google.com/file/d/1BlQt5VPgtM3H3lCBHf74tLqzAM31Osg2/view)" width="40%"/></p><br>
 
 
 - 👋 Hi, I’m Karthik Varkala
