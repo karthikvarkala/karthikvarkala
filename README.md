@@ -1,7 +1,7 @@
 <h1> Hello < Guys/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p>
-  <a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FFFFFF&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FFFFFF00&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Enthusiastic!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center" ><img 
